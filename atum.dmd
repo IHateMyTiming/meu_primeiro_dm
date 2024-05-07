@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="atum" id="814046CD-D332-0BC3-233A-FA6BE558C337" version="3.5">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2024-05-07 00:54:50 UTC</createdTime>
+<ownerDesignName>atum</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>814046CD-D332-0BC3-233A-FA6BE558C337</designId>
+</OSDM_Design>
